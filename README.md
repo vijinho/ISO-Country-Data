@@ -4,7 +4,7 @@ I created this repo as I wanted just the minimal dataset to import into other pr
 
 - The files have all been [JSON-linted](http://jsonformatter.curiousconcept.com/) and re-formatted slightly.
 - CSV files have been [CSV-linted](http://csvlint.io/) and reformatted to 'Standard CSV'
-- `regions.js` has been compiled into JSON
+- `regions.js` has been compiled into JSON and flattened down to 1 level
 - `regions.js` has a new entry 'eurozone' for countries using the EURO (€)
 
 **Note** that there is intentionally no regions.csv file.
