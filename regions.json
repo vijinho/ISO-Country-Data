@@ -531,6 +531,25 @@
     },
     "eurozone":{
         "countries":[
+            "AT",
+            "BE",
+            "CY",
+            "DE",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GR",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MT",
+            "NL",
+            "PT",
+            "SI",
+            "SK"
         ]
     },
     "australia":{
