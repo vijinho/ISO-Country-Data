@@ -1,6 +1,6 @@
 # ISO Country, Language, Currency and Region Data
 
-I created this repo as I wanted just the minimal dataset to import into other projects. It is based on the raw data from the excelled NodeJS project [OpenBookPrices/country-data](https://github.com/OpenBookPrices/country-data), is provided with the same [LICENSE](LICENSE.txt) and features the following changes:
+I created this repo as I wanted just the minimal dataset to import into other projects. It is based on the raw data from the excellent NodeJS project [OpenBookPrices/country-data](https://github.com/OpenBookPrices/country-data), is provided with the same [LICENSE](LICENSE.txt) and features the following changes:
 
 - The files have all been [JSON-linted](http://jsonformatter.curiousconcept.com/) and re-formatted slightly.
 - CSV files have been [CSV-linted](http://csvlint.io/) and reformatted to 'Standard CSV'
