@@ -2,8 +2,9 @@
 
 I created this repo as I wanted just the minimal dataset to import into other projects. It is based on the raw data from the excellent NodeJS project [OpenBookPrices/country-data](https://github.com/OpenBookPrices/country-data), is provided with the same [LICENSE](LICENSE.txt) and features the following changes:
 
-- The files have all been [JSON-linted](http://jsonformatter.curiousconcept.com/) and re-formatted slightly.
 - CSV files have been [CSV-linted](http://csvlint.io/) and reformatted to 'Standard CSV'
+- The files have all been [JSON-linted](http://jsonformatter.curiousconcept.com/) and re-formatted slightly.
+- Added minified (.min.json) version of each JSON file
 - `regions.js` has been compiled into JSON and flattened down to 1 level
 - `regions.js` has a new entry 'eurozone' for countries using the EURO (€)
 
